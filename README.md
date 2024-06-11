@@ -1,5 +1,5 @@
 <h1 align="center">Hello! This is Sujan</h1>
-<h4 align="center">Computer Science(AIML) Student</h4>
+<h4 align="center">I'm a Computer Science (AIML) Student</h4>
 
 # 💫 About Me:
 As a BTech Student specializing in Artificial Intelligence and Machine Learning, I am on a journey to explore the limitless possibilities at the intersection of technology and intelligence. Currently pursuing my Computer Science (AIML) degree, I am developing a strong foundation in AI and ML through rigorous coursework and practical applications.
