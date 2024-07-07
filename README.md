@@ -1,4 +1,4 @@
-<h1 align="center">Hello! This is Sujan</h1>
+<h1 align="center">Hello! 👋 </h1>
 <h4 align="center">I'm a Computer Science (AIML) Student</h4>
 
 # 🧑🏼‍🎓 About Me:
